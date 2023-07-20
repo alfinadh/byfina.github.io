@@ -27,3 +27,30 @@ body {
     margin-left: 15%;
     margin-right: 15%;
 }
+.form-group{
+    display: flexbox;
+    margin-left: 5%;
+}
+.hitung{
+    background-color: lightskyblue;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    border-style: hidden;
+    margin-left: 5%
+}
+.hapus{
+    display: flexbox;
+    padding: 10px;
+    border-radius: 6px;
+    border-style: hidden;
+}
+.tombol{
+    background-color: lightskyblue;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    border-style: hidden;
+    justify-content: center;
+    align-content: center;
+}
